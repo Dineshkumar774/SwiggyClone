@@ -1,0 +1,29 @@
+{
+  "name": "swiggyclone",
+  "version": "1.0.0",
+  "description": "\"# SwiggyClone\"",
+  "scripts": {
+    "start": "parcel basic.html",
+    "build": "parcel build basic.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dineshkumar774/SwiggyClone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dineshkumar774/SwiggyClone/issues"
+  },
+  "homepage": "https://github.com/Dineshkumar774/SwiggyClone#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router": "^6.26.2",
+    "react-router-dom": "^6.26.2"
+  }
+}
